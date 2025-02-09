@@ -23,7 +23,6 @@
 
 ### 💡 What I'm Working On:
 - 🏒 **[Sports Management App](#)** – Team & schedule management for amateur sports  
-- 📱 **[tvOS VPN App](#)** – Secure & fast VPN solution for Apple TV  
 - 🏗 **[BIM & AI Integration](#)** – Researching AI platforms for Revit & BIM  
 - 🌍 **Open Source Contributions** – Supporting the Vapor & Swift community  
 
