@@ -37,6 +37,14 @@
 
 ---
 
+### 🔥 Top Starred Repository:
+
+- [**EKAstrologyCalc**](https://github.com/emvakar/EKAstrologyCalc)  
+  *Astrology Calculator calculates moon's rise/set times, moon age, moon phases, and Zodiac sign for location and time.*  
+  ![Stars](https://img.shields.io/github/stars/emvakar/EKAstrologyCalc?style=social) ![Forks](https://img.shields.io/github/forks/emvakar/EKAstrologyCalc?style=social)
+
+---
+
 ### 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emvakar)  
 [![Telegram](https://img.shields.io/badge/Telegram-@emvakar-blue?style=flat&logo=telegram)](https://t.me/emvakar)  
@@ -45,3 +53,5 @@
 ---
 
 🚀 *Always open to new projects, collaborations, and tech discussions!*
+
+![](https://hit.yhype.me/github/profile?account_id=26129460)
