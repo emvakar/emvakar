@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Emvakar</h1>
+<h1 align="center">Hi there! 👋 I'm Emil Karimov</h1>
 
 <p align="center">
 🚀 Software Engineer | Swift & Vapor Developer | AI & Sports Tech Enthusiast  
