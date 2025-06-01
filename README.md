@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Software Engineer | Swift & Vapor Developer | AI & Sports Tech Enthusiast  
-📱 Developing for iOS, tvOS & macOS  
+📱 Focused on iOS, tvOS & macOS development  
 </p>
 
 <p align="center">
@@ -17,14 +17,35 @@
 - **Languages:** Swift, JavaScript, Python  
 - **Backend:** Vapor 4, Node.js, PostgreSQL, MongoDB  
 - **DevOps:** Docker, Fastlane, CI/CD, AWS  
-- **Other:** AI/ML, BIM for Heritage, Sports Tech  
+- **Other:** AI/ML, Sports Tech, Automation  
 
 ---
 
 ### 💡 What I'm Working On:
-- 🏒 **[Sports Management App](#)** – Team & schedule management for amateur sports  
-- 🏗 **[BIM & AI Integration](#)** – Researching AI platforms for Revit & BIM  
-- 🌍 **Open Source Contributions** – Supporting the Vapor & Swift community  
+
+#### 🏒 [BeInHockey](https://beinhockey.com) – Amateur Hockey Team Management App  
+A powerful mobile solution for managing amateur hockey teams:  
+- Game and practice scheduling  
+- Team chat and real-time notifications  
+- Role-based access for coaches, players, and guardians  
+- Multiple teams and player profiles per user  
+🔗 Visit: [beinhockey.com](https://beinhockey.com)
+
+#### 🍍 [Ananas](https://ananasapp.ru) – Smart Shopping List App  
+A user-friendly and visual grocery list application:  
+- Organize your shopping by categories  
+- Quick access to repeatable lists  
+- Clean UI for families and solo shoppers  
+🔗 Visit: [ananasapp.ru](https://ananasapp.ru)
+
+#### 🧠 BIM & AI Integration (Research)  
+- Exploring how AI can improve Revit/BIM workflows  
+- Smart data extraction and model validation  
+- Custom ML tools for design analysis
+
+#### 🌍 Open Source Contributions  
+- Active member of the Vapor & Swift server-side community  
+- Building internal tools for mobile CI and developer workflows  
 
 ---
 
@@ -32,15 +53,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emvakar&show_icons=true&theme=radical" width="48%">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emvakar&theme=radical" width="48%"> -->
 </p>
 
 ---
 
-### 🔥 Top Starred Repository:
+### 🔥 Featured Repository:
 
 - [**EKAstrologyCalc**](https://github.com/emvakar/EKAstrologyCalc)  
-  *Astrology Calculator calculates moon's rise/set times, moon age, moon phases, and Zodiac sign for location and time.*  
+  *Moon phase, zodiac sign, and lunar calendar calculations for a specific location and time.*  
   ![Stars](https://img.shields.io/github/stars/emvakar/EKAstrologyCalc?style=social) ![Forks](https://img.shields.io/github/forks/emvakar/EKAstrologyCalc?style=social)
 
 ---
@@ -52,6 +72,6 @@
 
 ---
 
-🚀 *Always open to new projects, collaborations, and tech discussions!*
+🚀 *Always open to new projects, collaborations, and technical ideas!*
 
 ![](https://hit.yhype.me/github/profile?account_id=26129460)
